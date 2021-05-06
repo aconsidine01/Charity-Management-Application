@@ -1,0 +1,7 @@
+.Row {
+    display: table;
+
+}
+.Column {
+    display: table-cell;
+}
